@@ -14,9 +14,6 @@ describe('newspaper flow', () => {
   const phone = '612345678'
   const firstName = 'Orlane'
   const lastName = 'Chapelle'
-  //const posteOffer = 
-  // const confirmationCodeDestination = 
-
 
   it('newspaper flow', () => {
    
