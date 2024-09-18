@@ -102,5 +102,3 @@ describe('newspaper flow', () => {
   
   })
 })
-
-
